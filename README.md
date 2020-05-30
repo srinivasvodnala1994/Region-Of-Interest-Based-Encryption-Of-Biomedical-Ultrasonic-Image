@@ -1,0 +1,1 @@
+# Region-Of-Interest-Based-Encryption-Of-Biomedical-Ultrasonic-Image
